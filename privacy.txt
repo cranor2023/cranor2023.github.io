@@ -1,0 +1,159 @@
+We respect your right to privacy and take the protection of your personal information seriously. The purpose of this Privacy Policy is to inform you about how we collect and process your personal information in the gaming services provided by the Company and how you can manage it
+Your Personal Information. Please read this Privacy Policy carefully before using the Company's Game Services (hereinafter referred to as "Game Services").
+This Privacy Policy does not apply to the collection and processing of information by third parties in the context of products or services provided in the Game Services (including any third-party websites), which may include links in the Game Services
+other products or services. Your use of these third-party services, including any personal information you provide to these third parties, will be governed by the terms of service and privacy policies of those third parties (not this Privacy Policy).
+For specific provisions, please read the relevant terms and conditions of the third party carefully.
+
+This Privacy Policy is formulated in accordance with laws and regulations. For the purposes of this Privacy Policy, "personal information" refers to all kinds of information relating to an identified or identifiable natural person, recorded electronically or otherwise, excluding anonymization
+information after processing, etc.
+
+This privacy policy will be analyzed by the user as follows, please read it carefully!
+
+How to contact us
+
+1. Types and purposes of personal information we collect
+
+1.1 After you successfully enter the Game Service, we will automatically generate a Game Account for you. When you bind your game service data and a third-party social platform account, we will request your personal information from the third-party platform.
+After you complete the binding, you can log in directly to the corresponding account to continue the game progression, or switch between different accounts. If you switch accounts in an unbound state, or choose during the game
+If you unbind your account, you may lose the game data of your current account.
+
+1.2 When you enter the game service to set your player profile, you can freely change your player name and set your avatar by taking a photo or uploading a photo album. When setting up your avatar in the previous way, you need to:
+Authorize us to access your device's gallery or turn on your camera.
+
+1.3 When you contact us through online customer service, we will record your communication records with us so that we can better answer your questions.
+
+1.4 In order to ensure the security of the game service and your account, and the quality and efficiency of service operation, we (including KingsGroup and FunPlus SDK) will automatically collect your hardware model, operating system version number, device name, and settings
+Alternate configuration, International Mobile Equipment Identity, unique device identifier, network device hardware address, IP address, MAC address, WLAN access point, Bluetooth, base station, software version number, network access mode, type, and status
+status, network quality data, operations, usage, service logs, Android ID, IMSI, sensor information.
+
+During your play, we will automatically collect your activity data in the Game Services, including game progress data, login time and game duration, information about your interactions with other players, and the information you have visited in the game
+pages or clicked links, etc. We and our partners will analyze this data to better understand you, such as where you're coming from and what content is appealing to you in our games, and to improve you
+Quality of game services.
+
+In general, we will only use your personal information for the purposes set out in this Privacy Policy or as notified at the time we collect personal information from you. However, in the laws and regulations
+Where permitted, we will also use your personal information for purposes related to the above purposes or other purposes permitted by laws and regulations.
+
+2 How We Collect and Process Personal Information of Minors
+We protect the personal information of minors in accordance with relevant national laws and regulations. If you are a minor under the age of 14, you should contact your parents or others before using the Game Services
+Under the guardianship and guidance, the guardian shall read and agree to this Privacy Policy and the Children's Personal Information Protection Policy.
+
+If we find that we have collected the personal information of minors without prior consent in accordance with the law, we will try to delete the relevant information as soon as possible. If you are the guardian of a minor, when you
+If you have any questions about the personal information of the minors under your guardianship, or request to correct or delete the personal information of minors, please contact us through the contact information provided in this Privacy Policy.
+
+If you are the guardian of a minor, we will collect personal information (including name,
+ID number, address, proof of guardianship, etc.) to verify the guardianship relationship between you and the minor and the minor's account ownership. Such as a third party on the tour that is applied for control
+By objecting to the ownership of the Minor, you agree and authorize us to provide your and the minor's personal information to the third party or authority.
+
+3 Notification of Cookies and Related Technologies
+To ensure the proper functioning of our website or mobile application, we store small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, and some numbers
+and characters. With the help of cookies, we will store information about your role. Cookies and related technologies can help websites recognise registered users, count the number of users, and are often used by websites to determine who has completed a registration
+We use cookies and related technologies to achieve the following functions or services:
+
+3.1 Ensure the safe and efficient operation of products or services. We may set authentication and security cookies to confirm that you are logging in to the Service securely or if you have experienced theft
+use, fraud and other wrongful acts. These technologies also help us improve service efficiency, login and responsiveness.
+
+3.2 Simplify your operation steps. Using this type of technology can help you avoid the steps and processes of repeatedly filling in personal information and entering searches, and help you have an easier access experience.
+
+3.3 We will not use cookies for any purpose other than those described in this Notice. You can manage or delete cookies according to your preferences. But if you do, in some cases
+may affect your secure access to our website or affect the application, and you may be required to change your user settings each time you visit our website or mobile application.
+
+4 How we entrust the processing and sharing of your personal information
+In order to improve the efficiency of information processing, we may entrust third parties to process your personal information on our behalf. We will strictly sign with third parties with whom we entrust the processing of personal information
+requires them to process personal information in accordance with our requirements, this Privacy Policy, and the confidentiality and security measures required by laws and regulations.
+
+We may share your personal information with third parties in the following circumstances:
+
+4.1 In order to achieve the processing purposes described in this Privacy Policy, we will provide your name and ID number to the National Anti-Addiction System so that it can provide us with real-name authentication services.
+
+4.2 to relevant law enforcement agencies, regulators, governments, courts or other third parties where we believe such disclosure is necessary and in order to comply with any applicable application
+laws and regulations; To exercise, establish, or defend our legal rights to protect your vital legal rights and interests, or those of any other person.
+
+4.3 Your personal information may be shared among our affiliates. We will only share personal information that is necessary and such sharing is subject to the purposes set out in this Privacy Policy. If the affiliate wants to change the personal information
+For the purpose of processing, your authorization and consent will be sought again.
+
+4.4 In the event of any change or merger, division, dissolution, declaration of bankruptcy or other procedures, if the transfer of personal information is involved, we will inform you of the name or name and contact information of the recipient. Receive personal correspondence from you
+The Company and Organization will continue to process your personal information in accordance with the disclosures in this Privacy Policy. For example, new companies and organizations that hold your personal information need to use your personal information for this purpose
+For purposes not specified in the Privacy Policy, the new company or organization will obtain your consent in accordance with the provisions of applicable laws and regulations.
+
+4.5 With your consent, we provide it to other third parties for the purposes we have informed you of with your consent.
+
+In order to ensure the realization of game service-related functions and the safe and stable operation of applications, we may access software development kits (SDKs) provided by third-party service providers to provide you with better customer service and user experience.
+Some third-party SDKs that we access may collect your personal information, and if you use such services provided by third parties in our services, you agree that their information will be collected and processed. We'll evaluate that
+The legality, legitimacy, and necessity of the collection of personal information by such third-party services require such third parties to take protective measures for your personal information and strictly comply with relevant laws, regulations, and regulatory requirements. You can click on the "Section".
+Directory of third-party SDK service providers" to understand the basic information of the third-party SDKs that we mainly access.
+
+In addition, we will not share your personal information with any third party other than the above-mentioned relevant parties without your consent (unless otherwise required by applicable law). We will sign strict confidentiality agreements with companies, organizations and individuals with whom we share your personal information, requiring them to process personal information in accordance with our instructions and any other relevant confidentiality and security measures.
+
+5 How We Protect Your Personal Information
+We will take appropriate technical and administrative measures to protect your personal information collected and processed by us to prevent unauthorized access, public disclosure, use, modification, damage or loss of your personal information
+。 For example, we regularly de-identify unused game accounts and unnecessary data.
+
+Please acknowledge and understand that the Internet is not a completely secure environment. If you find that your personal information has been leaked, please contact us immediately through the contact information in the "How to Contact Us" section of this Privacy Policy
+Then we will take appropriate measures.
+
+In the event of an accident, force majeure or other circumstances that lead to the leakage of your personal information, we will try our best to control the situation and promptly inform you of the cause of the incident, the security measures we have taken, and the security measures you can take proactively
+and other related information. In the event of a security incident related to personal information, we will report to the relevant competent authority in accordance with the requirements of relevant laws and regulations, promptly investigate the problem, and take emergency measures.
+
+6 How We Store Your Personal Information
+We will store your collected personal information in China in accordance with the requirements of applicable laws and regulations. If we need to transfer your personal information overseas, we will explain the specific situation to you and obtain your consent and click here
+Complete the corresponding security assessment and certification in accordance with the requirements of laws and regulations.
+
+Unless otherwise required by laws and regulations, we will store your personal information for the shortest period necessary to meet our legitimate business needs and the period of time required by laws, regulations and regulatory requirements, such as providing services to you
+to meet applicable legal requirements, or to resolve disputes, etc. After the storage period has expired, we will delete or anonymize your personal information.
+
+7 Rights of your personal information subject
+You have the right to exercise the statutory rights of personal information subjects under the law, such as you can request to access, correct, update, copy, delete, restrict or refuse the collection and processing of your personal information by us, you can do so through the following parties:
+exercise the above rights;
+
+Accessing and Updating Your Personal Information: You can view your account information by clicking on your profile picture - Settings - Account in the game.
+
+You may request us to delete your personal information in the following circumstances:
+
+7.1 If our processing of personal information violates laws and regulations;
+
+7.2 If we process your personal information without your consent;
+
+7.3 If our processing of personal information violates our agreement with you;
+
+7.4 If you no longer use our services, or you cancel your account;
+
+7.5 If we terminate the operation and service of the Game, or the retention period of your personal information expires.
+
+For personal information that is difficult to access, correct, update, or delete directly within the Game Services, you can contact us through the contact information in the "How to Contact Us" section of this Privacy Policy to exercise your rights.
+
+Certain business functions in the Game Services will require your information or the device permissions you have granted to complete them. You have the right to withdraw by changing the settings of your mobile device, turning off the corresponding business functions, or deleting your personal information
+Agree. After you withdraw your consent, we will no longer be able to provide you with the corresponding functions and no longer process your corresponding personal information. However, your decision to withdraw your consent will not affect the information we have previously carried out based on your authorization
+Personal Data Processing.
+
+You can contact us so that we can help you copy or transfer your personal information.
+
+You may request to cancel your account at any time by contacting our customer service. After you cancel your account, we will stop providing you with services and will no longer process the personal information associated with your account.
+
+You can click on the "unsubscribe" link at the bottom of the email you receive; If you do not want to receive SMS messages from us, you can select the "unsubscribe" function according to the operation prompts in the SMS;
+
+We will respond to all requests we receive from users to exercise the rights of personal data subjects in accordance with the requirements and time required by applicable personal information protection laws. In principle, we do not charge a fee for your reasonable request
+However, for repeated requests that exceed reasonable limits, we will charge a certain cost fee depending on the situation.
+
+In accordance with laws and regulations, we may not be able to respond to your request for exercising your rights under the following circumstances:
+
+If your request is contrary to our performance of our obligations under laws and regulations;
+
+If the requested information is directly related to national security, national defense security;
+
+If the requested information is directly related to public safety, public health, or major public interest;
+
+If the requested information is directly related to criminal investigations, prosecutions, trials, and enforcement of judgments;
+
+If we have sufficient evidence that you have subjective malice or abuse of rights
+
+For the purpose of protecting the life, property and other major legitimate rights and interests of you or other individuals, but it is difficult to obtain your authorization and consent;
+
+If responding to your request for exercising your rights will cause serious damage to the legitimate interests of you or other individuals or organizations;
+
+If the requested information involves trade secrets.
+
+If we terminate our services or operations, we will notify you at least 30 days in advance and delete or anonymize your personal information after terminating our services or operations.
+
+8 How to Contact Us
+If you have any questions or concerns about how we use your personal information or this Privacy Policy, especially if you believe that our processing of your personal information has harmed your legitimate rights and interests, you can contact us through the following contact information
+We, or through the Live Chat section of the Game Services, have a live chat with us. We will review the issues involved as soon as possible and respond in a timely manner in accordance with the requirements and deadlines of laws and regulations.
